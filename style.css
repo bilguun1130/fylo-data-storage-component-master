@@ -105,9 +105,9 @@ article {
     padding: 2%;
     border-radius: 0.4rem;
     border-bottom-right-radius: 0px;
-    position: relative;
-    top: -170%;
-    left: 80%;
+    position: absolute;
+    top: -20%;
+    left: 70%;
 }
 h1 span {
     color: var(--grayish-blue);
